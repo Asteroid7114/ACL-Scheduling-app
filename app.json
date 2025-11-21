@@ -4,7 +4,7 @@
     "userInterfaceStyle": "automatic",
     "orientation": "default",
     "web": {
-      "output": "static"
+      "output": "server"
     },
     "plugins": [
       [
@@ -15,6 +15,9 @@
       ]
     ],
     "name": "fit-app",
-    "slug": "fit-app"
+    "slug": "fit-app",
+    "android": {
+      "package": "com.anonymous.fitapp"
+    }
   }
 }
