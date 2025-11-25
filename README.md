@@ -1,11 +1,10 @@
-# ACL BOOST
-
-Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
+# ACL Boost
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-tailwindcss
+npx expo start
+npx sanity dev
 ```
 
 ## Deploy
